@@ -10,6 +10,8 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - Wormoles (Needs KopernicusExpansion and Singularity to work)
 - New planetary trails using asset bundles with the help of Scaled Decorator !
 - Customizable settings !
+- Custom scatters !
+- World first features likes Rainbows !
 
 ## Recommended mods
 - EVE Volumetrics
@@ -21,6 +23,7 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - NOT Compatible with Parallax 2.0
 - Does not support EVE Redux
 - Completely compatible with Celestial Harmony, wormholes will be moved
+
 
 ## Dependencies
 - Kopernicus
