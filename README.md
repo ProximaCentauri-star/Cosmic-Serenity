@@ -3,4 +3,4 @@
 Official Github page for downloads and update for the KSP mod Cosmic Serenity
 
 ## Synopsis
-Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a more complete experience as they'll be able to explore the stars to countless new worlds
+Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a more complete experience as they'll be able to explore the stars to countless new worlds. Embark on a brand new journey and explore the worlds that awaits you !
