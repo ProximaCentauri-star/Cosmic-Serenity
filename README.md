@@ -17,6 +17,7 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - EVE Volumetrics
 - Scatterer
 - Parallax Continued
+- Deffered
 
 ## Compatibility
 - CS Should be compatible with every other planet mods
