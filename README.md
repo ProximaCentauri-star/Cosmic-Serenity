@@ -9,6 +9,7 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - As of the first release, Cosmic Serenity contains one additional star system called Hades. A brown dwarf system filled with endearing worlds awaiting your arrival !
 - Wormoles (Needs KopernicusExpansion and Singularity to work)
 - New planetary trails using asset bundles with the help of Scaled Decorator !
+- Customizable settings !
 
 ## Recommended mods
 - EVE Volumetrics
@@ -18,6 +19,8 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 ## Compatibility
 - CS Should be compatible with every other planet mods
 - NOT Compatible with Parallax 2.0
+- Does not support EVE Redux
+- Completely compatible with Celestial Harmony, wormholes will be moved
 
 ## Dependencies
 - Kopernicus
