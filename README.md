@@ -18,6 +18,7 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - Scatterer
 - Parallax Continued
 - Deffered
+- FireFly
 - KSPCF (KSP Community Fixes, strongly recommended)
   - Using KSPCF, go in the settings and turn off the stock maneuver tool, if you don't do that, you might experience long freezes or even crashes when around Hades
 
