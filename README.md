@@ -15,10 +15,10 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 
 ## Recommended mods
 - EVE Volumetrics
-- Scatterer
-- Parallax Continued
-- Deffered
-- FireFly
+- [Scatterer](https://forum.kerbalspaceprogram.com/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
+- [Parallax Continued](https://forum.kerbalspaceprogram.com/topic/227476-1125-parallax-continued-100/)
+- [Deffered](https://github.com/LGhassen/Deferred)
+- [FireFly](https://forum.kerbalspaceprogram.com/topic/226818-105-firefly-revamped-atmospheric-effects/)
 - KSPCF (KSP Community Fixes, strongly recommended)
   - Using KSPCF, go in the settings and turn off the stock maneuver tool, if you don't do that, you might experience long freezes or even crashes when around Hades
 
@@ -30,9 +30,8 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 
 
 ## Dependencies
-- Kopernicus
-- Scaled Decorator
-
+- [Kopernicus](https://github.com/kopernicus/kopernicus/releases)
+- [Scaled Decorator](https://forum.kerbalspaceprogram.com/topic/228197-scaleddecorator-a-mod-for-planet-pack-creators-to-load-assetbundles-into-scaledspace/)
 ## Installation
 - Download the _Core folder into your GameData folder, without this the mod won't work
 - Download the desired system, ex. _Hades and put it inside your GameData, don't worry, the two folders will merge together into a single CosmicSerenity folder
