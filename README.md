@@ -32,6 +32,7 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 ## Dependencies
 - [Kopernicus](https://github.com/kopernicus/kopernicus/releases)
 - [Scaled Decorator](https://forum.kerbalspaceprogram.com/topic/228197-scaleddecorator-a-mod-for-planet-pack-creators-to-load-assetbundles-into-scaledspace/)
+- [Niako's Utilities](https://forum.kerbalspaceprogram.com/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 ## Installation
 - Download the _Core folder into your GameData folder, without this the mod won't work
 - Download the desired system, ex. _Hades and put it inside your GameData, don't worry, the two folders will merge together into a single CosmicSerenity folder
