@@ -36,3 +36,6 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 ## Installation
 - Download the _Core folder into your GameData folder, without this the mod won't work
 - Download the desired system, ex. _Hades and put it inside your GameData, don't worry, the two folders will merge together into a single CosmicSerenity folder
+
+## Official Discord
+[Discord](https://discord.gg/RbzPPjsSY7)
