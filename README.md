@@ -6,7 +6,7 @@ Official Github page for downloads and update for the KSP mod Cosmic Serenity
 Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a more complete experience as they'll be able to explore the stars to countless new worlds. Embark on a brand new journey and explore the worlds that awaits you !
 
 ## Features
-- As of the first release, Cosmic Serenity contains one additional star system called Hades. A brown dwarf system filled with endearing worlds awaiting your arrival !
+- Currently has 2 systems. Hades, A brown dwarf system filled with endearing worlds awaiting your arrival ! Anubis, a pulsar with breathtaking jets
 - Wormoles (Needs KopernicusExpansion and Singularity to work)
 - New planetary trails using asset bundles with the help of Scaled Decorator !
 - Customizable settings !
