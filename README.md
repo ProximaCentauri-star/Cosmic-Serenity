@@ -1,7 +1,8 @@
 <img width="1949" height="575" alt="image" src="https://github.com/user-attachments/assets/bcfd822d-5f23-43de-bc72-0d8e265261f4" />
 
-
+[![GitHub Release](https://img.shields.io/github/v/release/ProximaCentauri-star/Cosmic-Serenity?style=for-the-badge&logo=github&label=RELEASE&color=red)](https://github.com/ProximaCentauri-star/Cosmic-Serenity/releases)
 ![Downloads](https://img.shields.io/github/downloads/ProximaCentauri-star/Cosmic-Serenity/total?style=for-the-badge&logo=github&color=brightgreen)
+[![Discord](https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RbzPPjsSY7)
 
 Official Github page for downloads and update for the KSP mod Cosmic Serenity
 
