@@ -46,7 +46,12 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - Emu, for some 3D models and contributing on Plutus' creation
 - TheSpacePotato, for the inspiration and some parameters for some EVE configs. As well as most of the magic used for volumetric aurorae
 - OoglakKerman, for ressource configs and some science stuff
-
+- Science Definitions help:
+   - Ket
+   - BlackHoleNerd
+   - NCC
+   - Ave
+   - dadabun
 
 ## Official Discord
 [Discord](https://discord.gg/RbzPPjsSY7)
