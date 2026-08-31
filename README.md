@@ -1,7 +1,8 @@
 <img width="1949" height="575" alt="image" src="https://github.com/user-attachments/assets/bcfd822d-5f23-43de-bc72-0d8e265261f4" />
 
-
+[![GitHub Release](https://img.shields.io/github/v/release/ProximaCentauri-star/Cosmic-Serenity?style=for-the-badge&logo=github&label=RELEASE&color=red)](https://github.com/ProximaCentauri-star/Cosmic-Serenity/releases)
 ![Downloads](https://img.shields.io/github/downloads/ProximaCentauri-star/Cosmic-Serenity/total?style=for-the-badge&logo=github&color=brightgreen)
+[![Discord](https://img.shields.io/badge/JOIN-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RbzPPjsSY7)
 
 Official Github page for downloads and update for the KSP mod Cosmic Serenity
 
@@ -9,7 +10,7 @@ Official Github page for downloads and update for the KSP mod Cosmic Serenity
 Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a more complete experience as they'll be able to explore the stars to countless new worlds. Embark on a brand new journey and explore the worlds that awaits you !
 
 ## Features
-- Currently has 2 systems. Hades, A brown dwarf system filled with endearing worlds awaiting your arrival ! Anubis, a pulsar with breathtaking jets
+- Cosmic Serenity currently contains a brown dwarf that bathes its system in a calming and eerie pink hue, a pulsar system and its ravaged planets, a young orange dwarf with its unfinished system formation and a triple star system that contains mysterious and challenging bodies.
 - Wormoles (Needs KopernicusExpansion and Singularity to work)
 - New planetary trails using asset bundles with the help of Scaled Decorator !
 - Customizable settings !
@@ -45,7 +46,12 @@ Cosmic Serenity is a mod that expands on the Kerbal universe giving the user a m
 - Emu, for some 3D models and contributing on Plutus' creation
 - TheSpacePotato, for the inspiration and some parameters for some EVE configs. As well as most of the magic used for volumetric aurorae
 - OoglakKerman, for ressource configs and some science stuff
-
+- Science Definitions help:
+   - Ket
+   - BlackHoleNerd
+   - NCC
+   - Ave
+   - dadabun
 
 ## Official Discord
 [Discord](https://discord.gg/RbzPPjsSY7)
